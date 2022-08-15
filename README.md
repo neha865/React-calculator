@@ -2,6 +2,11 @@
 
 link: [https://neha865.github.io/react-calculator/)
 
+#screenshot
+
+<img width="1440" alt="Screenshot 2022-08-15 at 10 47 21 AM" src="https://user-images.githubusercontent.com/99635472/184580507-d45bb16a-15fb-4cce-9d48-b71865d5ff06.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
